@@ -24,7 +24,7 @@ class App extends Component {
   //   this.setState({ searchField: e.target.value});
   // }
 
-  consthandleChange = (e) => {
+  handleChange = (e) => {
     this.setState({ searchField: e.target.value});
   }
   
