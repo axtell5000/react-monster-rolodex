@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/axtell5000/react-monster-rolodex",
+  "homepage": "https://axtell5000.github.io/react-monster-rolodex",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.1",
